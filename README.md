@@ -10,11 +10,11 @@ XCode version: 9.3
 
 Citrus Hack 2018:
 --
-Team members: \n
-Xiwei Ma  \n
-Weijia Shi  \n
-Boyuan He  \n
-Guorui Xiao  \n
+Team members: 
+Xiwei Ma  
+Weijia Shi  
+Boyuan He  
+Guorui Xiao 
 
 
 
