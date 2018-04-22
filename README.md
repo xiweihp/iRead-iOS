@@ -10,7 +10,7 @@ XCode version: 9.3
 
 Citrus Hack 2018:
 --
-Team members: 
+Team members:   
 Xiwei Ma  
 Weijia Shi  
 Boyuan He  
